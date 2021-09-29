@@ -34,6 +34,23 @@
           "url": "https://github.com/akshayganeshen/sublime-beryl/archive/refs/tags/v1.0.0.zip"
         }
       ]
+    },
+    {
+      "name": "Surround",
+      "author": "akshayganeshen",
+      "description": "Auto-match & surround keybindings.",
+      "homepage": "https://github.com/akshayganeshen/sublime-surround",
+      "readme": "https://github.com/akshayganeshen/sublime-surround/blob/main/README.md",
+      "issues": "https://github.com/akshayganeshen/sublime-surround/issues",
+      "labels": [ "code navigation", "text manipulation", "text navigation" ],
+      "releases": [
+        {
+          "version": "1.0.0",
+          "date": "2021-09-29 02:37:00",
+          "sublime_text": ">=3000",
+          "url": "https://github.com/akshayganeshen/sublime-surround/archive/refs/tags/v1.0.0.zip"
+        }
+      ]
     }
   ]
 }
