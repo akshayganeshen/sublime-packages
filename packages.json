@@ -1,4 +1,22 @@
 {
   "schema_version": "3.0.0",
-  "packages": []
+  "packages": [
+    {
+      "name": "Beryl",
+      "author": "akshayganeshen",
+      "description": "Material colour scheme, inspired by Wombat and Flatland.",
+      "homepage": "https://github.com/akshayganeshen/sublime-beryl",
+      "readme": "https://github.com/akshayganeshen/sublime-beryl/blob/main/README.md",
+      "issues": "https://github.com/akshayganeshen/sublime-beryl/issues",
+      "labels": [ "color scheme" ],
+      "releases": [
+        {
+          "version": "1.0.0",
+          "date": "2021-09-29 02:20:00",
+          "sublime_text": ">=3000",
+          "url": "https://github.com/akshayganeshen/sublime-beryl/archive/refs/tags/v1.0.0.zip"
+        }
+      ]
+    }
+  ]
 }
