@@ -2,6 +2,23 @@
   "schema_version": "3.0.0",
   "packages": [
     {
+      "name": "Alt-Mode",
+      "author": "akshayganeshen",
+      "description": "Vim keybindings by holding alt.",
+      "homepage": "https://github.com/akshayganeshen/sublime-alt-mode",
+      "readme": "https://github.com/akshayganeshen/sublime-alt-mode/blob/main/README.md",
+      "issues": "https://github.com/akshayganeshen/sublime-alt-mode/issues",
+      "labels": [ "code navigation", "text manipulation", "text navigation" ],
+      "releases": [
+        {
+          "version": "1.0.0",
+          "date": "2021-09-29 02:34:00",
+          "sublime_text": ">=3000",
+          "url": "https://github.com/akshayganeshen/sublime-alt-mode/archive/refs/tags/v1.0.0.zip"
+        }
+      ]
+    },
+    {
       "name": "Beryl",
       "author": "akshayganeshen",
       "description": "Material colour scheme, inspired by Wombat and Flatland.",
