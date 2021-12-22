@@ -32,6 +32,12 @@
           "date": "2021-09-29 02:20:00",
           "sublime_text": ">=3000",
           "url": "https://github.com/akshayganeshen/sublime-beryl/archive/refs/tags/v1.0.0.zip"
+        },
+        {
+          "version": "1.1.0",
+          "date": "2021-12-22 01:30:00",
+          "sublime_text": ">=3000",
+          "url": "https://github.com/akshayganeshen/sublime-beryl/archive/refs/tags/v1.1.0.zip"
         }
       ]
     },
